@@ -1,6 +1,7 @@
 # Workshop-Minishift-and-MachineLearning
+[![redhat][img-redhat]][url-redhat]
 
-![redhat][img-redhat]][url-redhat]
+A workshop with the basics to learn how to use ML on MiniShift
 
 # Red Hat OpenShift Container Platform<br>
 
