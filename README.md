@@ -3,8 +3,7 @@
 
 A workshop with the basics to learn how to use ML on MiniShift
 
-# Red Hat OpenShift Container Platform<br>
-
+# Red Hat OpenShift Container Platform
 ![](img/im1.png)
 
 **Red Hat OpenShift** es una plataforma de contenedores de Kubernetes empresarial con operaciones automatizadas integrales para gestionar implementaciones de nube híbrida y multicloud. **Red Hat OpenShift** está optimizada para mejorar la productividad de los desarrolladores y promover la innovación.
